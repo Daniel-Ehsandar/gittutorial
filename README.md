@@ -164,6 +164,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [soroosh lotfi](https://github.com/slotfi909)(you're the best mr.jadi)
 - [Mohsen :feelsgood: ](https://github.com/Mohsen-max)
 - [Amin Alam :eyes:](https://github.com/AminAlam)
+- [Daniel-Ehsandar☕](https://github.com/Daniel-Ehsandar)
 - [Mostafa Ebrahimi :thumbsup:](https://github.com/mostafaeb)
 - [Imorate :zap:](https://github.com/imorate)
 - [TohidEq :heart:](https://github.com/TohidEq)
